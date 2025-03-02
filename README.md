@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@d3fi_verse" target="blank"><img src="https://img.shields.io/twitter/follow/@d3fi_verse?logo=twitter&style=for-the-badge" alt="@d3fi_verse" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Python,Java Script**
+- 🌱 I’m currently learning **Advance Java**
 
 - 📫 How to reach me **safalyaparida412@gmail.com**
 
